@@ -9,7 +9,7 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=shravanpadhar&color=blue&style=flat-square)](https://github.com/shravanpadhar)
 
-[![Follow @shravanpadhar](https://img.shields.io/github/followers/shravanpadhar?label=FOLLOW%20%40SHRAVANPADHAR&style=for-the-badge&color=555555&logo=github)](https://github.com/shravanpadhar)
+[![Follow @shravanpadhar](https://img.shields.io/badge/FOLLOW%20%40SHRAVANPADHAR-555555?style=for-the-badge&logo=github)](https://github.com/shravanpadhar)
 
 </div>
 
